@@ -1,4 +1,8 @@
 # 📘 IT Governance Blueprint
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Framework](https://img.shields.io/badge/frameworks-ITIL%2FCOBIT%2FISO-blue)
+![Focus](https://img.shields.io/badge/focus-business--aligned%20IT%20governance-blueviolet)
+![Updated](https://img.shields.io/badge/updated-jun%202025-lightgrey)
 
 This repository provides real-world models, workflows, and best practices to design or enhance a robust, business-aligned IT governance framework.
 
