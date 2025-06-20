@@ -14,7 +14,8 @@ To equip IT leaders with actionable guidance for implementing governance process
 
 - 🛠 [Incident Process](./incident-process.md)  
 - 🔁 [Change Control](./change-control.md)  
-- 📊 [Download SLA Matrix (.xlsx)](./sla-matrix.xlsx)  
+- 📊 [SLA Strategy Guide](./sla-guide.md)  
+- 📥 [Download SLA Matrix (.xlsx)](./sla-matrix.xlsx)  
 - 📚 [Service Catalog Example](./service-catalog-example.md)  
 - 🧭 [Governance Principles](./governance-principles.md)
 
