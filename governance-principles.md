@@ -17,3 +17,5 @@ Clearly defined ownership, roles, and responsibilities across all levels.
 
 ## 6. Transparency
 Decisions, priorities, and performance are openly communicated and documented.
+
+🔙 [Back to Main Guide](./README.md)
