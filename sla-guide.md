@@ -53,7 +53,7 @@ SLAs should reflect the reality of different services. A critical application (e
 
 You can download a ready-to-use SLA Matrix template below:
 
-➡️ [Download SLA Matrix (.xlsx)](./sla-matrix.xlsx)
+📥 [Download SLA Matrix (.xlsx)](https://github.com/victorcalife/it-governance-blueprint/raw/main/sla-matrix.xlsx) — ready-to-use matrix with response & resolution targets
 
 ---
 
@@ -67,7 +67,5 @@ You can download a ready-to-use SLA Matrix template below:
 ---
 
 > SLAs are not just metrics — they are part of the trust relationship between IT and the business.
->
-> ⬅️ [Back to Main Guide](./README.md)
-> 
 
+🔙 [Back to Main Guide](./README.md)
