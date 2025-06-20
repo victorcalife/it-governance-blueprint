@@ -1,32 +1,32 @@
 # 📘 IT Governance Blueprint
 
-This repository provides models, practices, and frameworks to design or enhance a strong, business-aligned IT governance structure.
+This repository provides real-world models, workflows, and best practices to design or enhance a robust, business-aligned IT governance framework.
 
 ---
 
 ## 🎯 Objective
 
-To offer a practical guide for IT leaders to implement governance processes based on frameworks like ITIL, COBIT, ISO, and Lean IT — adapted to real-world corporate environments and focused on value delivery.
+To equip IT leaders with actionable guidance for implementing governance processes grounded in ITIL, COBIT, ISO, and Lean IT — adapted for fast-paced, value-driven environments.
 
 ---
 
-## 📁 Suggested Structure
+## 📂 Quick Access
 
-- `incident-process.md` → Incident management workflow  
-- `change-control.md` → Standard and emergency change flow  
-- `sla-matrix.xlsx` → SLA matrix template based on impact/urgency  
-- `service-catalog-example.md` → Example of IT service catalog  
-- `governance-principles.md` → Key principles for applied IT governance
+- 🛠 [Incident Process](./incident-process.md)  
+- 🔁 [Change Control](./change-control.md)  
+- 📊 [Download SLA Matrix (.xlsx)](./sla-matrix.xlsx)  
+- 📚 [Service Catalog Example](./service-catalog-example.md)  
+- 🧭 [Governance Principles](./governance-principles.md)
 
 ---
 
 ## 🚀 Real-World Applications
 
-✔️ IT operations and service delivery  
-✔️ Technical support structure (Tier 1, 2, 3)  
-✔️ Business–IT alignment  
-✔️ Risk mitigation and increased delivery predictability  
-✔️ Compliance and audit readiness (ISO, GDPR, SOX)
+✔️ Scalable IT operations & service delivery  
+✔️ Tiered support model (L1, L2, L3)  
+✔️ Business–IT alignment & transparency  
+✔️ Risk mitigation and delivery predictability  
+✔️ Audit readiness (ISO, GDPR, SOX)
 
 ---
 
@@ -34,4 +34,4 @@ To offer a practical guide for IT leaders to implement governance processes base
 
 **Victor Calife**  
 Head of IT | ITIL | DevOps | Agile | Lean IT | Service Delivery  
-[LinkedIn](https://www.linkedin.com/in/victorcalife)
+[Connect on LinkedIn](https://www.linkedin.com/in/victorcalife)
